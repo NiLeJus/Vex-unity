@@ -7,9 +7,11 @@
 Assets/_Imports/
 Assets/_Imports.meta
 
-
 Assets/_Dump/
 Assets/_Dump.meta
+
+Assets/_Configs/google-service.json
+Assets/_Configs/google-service.json.meta
 
 # Fichiers Toon Deserted Temples
 Assets/Toon Deserted Temples/Textures/TFD_Atlas_1A.tga
