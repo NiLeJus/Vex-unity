@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e88c763b9efd3ee4389e08857c0eca1b, type: 3}
+  m_Name: Blueberry
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Blueberry
+  <description>k__BackingField: Nobody likes him
+  <portrait>k__BackingField: {fileID: 2800000, guid: 94f3c530ac2f7344ba100a1f321d99a5, type: 3}
+  <Rarity>k__BackingField: 22
+  <Worth>k__BackingField: 10
+  <pfCreatureVisual>k__BackingField: {fileID: 5432109955673861356, guid: 66fc504d24776824ab48a64a865a3dc4, type: 3}
+  <Type1>k__BackingField: 0
+  <Type2>k__BackingField: 0
+  strength:
+    statName: 0
+    baseValue: 1
+    value: 2
+    experience: 0
+    level: 0
+    quality: 10
+  dexterity:
+    statName: 1
+    baseValue: 1
+    value: 2
+    experience: 0
+    level: 0
+    quality: 100
+  intel:
+    statName: 2
+    baseValue: 12
+    value: 1
+    experience: 0
+    level: 0
+    quality: 100
+  agility:
+    statName: 3
+    baseValue: 2
+    value: 1
+    experience: 0
+    level: 0
+    quality: 100
+  physic:
+    statName: 4
+    baseValue: 3
+    value: 0
+    experience: 2
+    level: 2
+    quality: 30
+  focus:
+    statName: 5
+    baseValue: 0
+    value: 55
+    experience: 0
+    level: 0
+    quality: 20
+  <MaxHp>k__BackingField: 1
+  <MaxEp>k__BackingField: 0
+  <learnableMoves>k__BackingField:
+  - <Base>k__BackingField: {fileID: 11400000, guid: 2901647a243703d408fb171348a3a239, type: 2}
+    <level>k__BackingField: 0
+  - <Base>k__BackingField: {fileID: 11400000, guid: 4bdd57a9ad7b9714496f9d0236ce564e, type: 2}
+    <level>k__BackingField: 0

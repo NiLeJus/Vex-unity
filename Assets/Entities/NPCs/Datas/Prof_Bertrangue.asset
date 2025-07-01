@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8bd069e771e2934dafe6390d4aead83, type: 3}
+  m_Name: Prof_Bertrangue
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Bertrangue
+  <Description>k__BackingField: Prof
+  items:
+  - {fileID: 11400000, guid: 1ffef83f2fa4dc241957aa4023c53ff0, type: 2}
+  creatures:
+  - {fileID: 11400000, guid: 4de0e8750abe3dd4f855fd2d822ad20c, type: 2}
+  dialogueTrees:
+  - {fileID: 11400000, guid: 59555e69080623744a274404fb4d52dc, type: 2}
+  tamerLevel: 13

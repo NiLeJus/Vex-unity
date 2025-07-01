@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2bc765748c28f4c40ba116e73636ebe6, type: 3}
+  m_Name: Noobie
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: pfPlayerStart
+  <Description>k__BackingField: a player
+  items:
+  - {fileID: 11400000, guid: 1ffef83f2fa4dc241957aa4023c53ff0, type: 2}
+  - {fileID: 11400000, guid: 1ffef83f2fa4dc241957aa4023c53ff0, type: 2}
+  creatures:
+  - {fileID: 11400000, guid: c3fda6ad706241b4096236497365ffc6, type: 2}
+  - {fileID: 11400000, guid: 814c463a7dacb424496badbe455250bc, type: 2}
+  dialogueTrees: []
+  tamerLevel: 10
